@@ -9,3 +9,5 @@ By providing a low-cost solution, we aim to level the playing field in global re
 
 # How to use:
 You can go to the /py folder and open the script in Google Collab (or your preferred Python notebook in your usual environment).
+
+This video explain step by step how to use the code: https://media.upv.es/#/portal/video/9bf1d0d0-5c06-11ef-984c-6373308b2f42
